@@ -1,5 +1,8 @@
 # 6000B_DeepLearning
 
+1. report--project1_20459219_report.pdf
+2. code--project1_20459219_code.py
+3. result--project1_20459219.csv
 Project 1
 
 MSBD 6000B
